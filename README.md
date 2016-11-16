@@ -47,6 +47,24 @@ npm提供了git协同支持，可以节省很多处理包管理器与代码仓�
 编码规范参阅[编码规范]()
 
 ##代码包索引##
+###settings###
+* [se-cssNormalize](https://github.com/limingtech-front-end/se-cssNormalize) 全局css样式reset
+
+###controllers###
+* [co-example](https://github.com/limingtech-front-end/co-example) 一个controller代码包封装示例
+
+###directives###
+* [di-example](https://github.com/limingtech-front-end/di-example) 一个directive代码包封装示例
+
+###components###
+* [cm-example](https://github.com/limingtech-front-end/di-example) 一个component代码包封装示例
+
+###utilities###
+* [ut-example](/limingtech-front-end/ut-example) 一个utility代码包封装示例
+
+###threeparties###
+
+
 
 
 
