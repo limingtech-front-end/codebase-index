@@ -60,7 +60,7 @@ npm提供了git协同支持，可以节省很多处理包管理器与代码仓�
 * [cm-example](https://github.com/limingtech-front-end/di-example) 一个component代码包封装示例
 
 ###utilities###
-* [ut-example](/limingtech-front-end/ut-example) 一个utility代码包封装示例
+* [ut-example](https://github.com/limingtech-front-end/ut-example) 一个utility代码包封装示例
 
 ###threeparties###
 
