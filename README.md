@@ -43,8 +43,8 @@ npm提供了git协同支持，可以节省很多处理包管理器与代码仓�
 * NodeJs + npm [官网下载安装很简单](https://nodejs.org/en/) ，速度慢的话可以在[淘宝npm镜像](https://npm.taobao.org/)下载对应安装包
 
 ###公共代码包的构建与引用###
-构建与引用参阅[代码包构建与引用指南](https://github.com/limingtech-front-end/codebase-index/blob/master/documents/%E4%BB%A3%E7%A0%81%E5%8C%85%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%BC%95%E7%94%A8%E6%8C%87%E5%8D%97.md)
-编码规范参阅[编码规范](https://github.com/limingtech-front-end/codebase-index/blob/master/documents/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md)
+* 构建与引用参阅[代码包构建与引用指南](https://github.com/limingtech-front-end/codebase-index/blob/master/documents/%E4%BB%A3%E7%A0%81%E5%8C%85%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%BC%95%E7%94%A8%E6%8C%87%E5%8D%97.md)
+* 编码规范参阅[编码规范](https://github.com/limingtech-front-end/codebase-index/blob/master/documents/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md)
 
 ##代码包索引##
 ###settings###
