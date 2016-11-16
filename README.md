@@ -36,15 +36,15 @@ th-*
 
 ##代码包（package）构建与引用指南##
 ###基础开发环境的选择###
-为解决传统手动处理各种依赖所产生的代码重复加载、执行、引用混乱、版本不统一等问题，使用[NodeJs]() + [npm包管理器]()作为代码库的引用与构建基础，
+为解决传统手动处理各种依赖所产生的代码重复加载、执行、引用混乱、版本不统一等问题，使用[NodeJs](https://nodejs.org/en/) + [npm包管理器](https://www.npmjs.com/)作为代码库的引用与构建基础，
 npm提供了git协同支持，可以节省很多处理包管理器与代码仓库间的衔接问题，因此代码仓库基于git进行构建。
 ###开发环境安装###
 * Git [git - 简易指南](http://www.bootcss.com/p/git-guide/)
 * NodeJs + npm [官网下载安装很简单](https://nodejs.org/en/) ，速度慢的话可以在[淘宝npm镜像](https://npm.taobao.org/)下载对应安装包
 
 ###公共代码包的构建与引用###
-构建与引用参阅[代码包构建与引用指南](https://)
-编码规范参阅[编码规范]()
+构建与引用参阅[代码包构建与引用指南](https://github.com/limingtech-front-end/codebase-index/blob/master/documents/%E4%BB%A3%E7%A0%81%E5%8C%85%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%BC%95%E7%94%A8%E6%8C%87%E5%8D%97.md)
+编码规范参阅[编码规范](https://github.com/limingtech-front-end/codebase-index/blob/master/documents/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md)
 
 ##代码包索引##
 ###settings###
